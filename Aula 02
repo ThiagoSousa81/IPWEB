@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br"><head></head>
+    <body style="
+    font-family: sans-serif;
+"><h1 style="
+    font-family: sans-serif;
+">Atividade de aprendizagem</h1>
+<h2>Formatação de textos</h2><hr><p>Isto é um texto normal</p><p><b>Isto é um texto em negrito</b></p><p><i>Isto é um texto em itálico</i></p><p><s>Isto é um texto tachado</s></p><p>Texto normal<sub> texto subscrito</sub> texto normal</p>
+
+  <p>Texto normal<sup> texto superscrito</sup> texto normal</p>
+<hr>
+<h1>Alinhamento de textos</h1>
+<hr>
+<p style="
+    text-align: center;
+">Texto centralizado</p><p style="
+    text-align: end;
+">texto alinhado à direita</p><p style="
+    text-align: initial;
+">texto alinhado à esquerda</p>
+<h1>Cores nos textos</h1>
+<hr>
+<p style="
+    background-color: red;
+    color: white;
+">Cor de fundo vermelha, cor do texto branca</p></body></html>
+
+
