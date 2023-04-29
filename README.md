@@ -1,2 +1,2 @@
 # IPWEB
-Aulas de programação web
+### Aulas da disciplina de IPRWEB (Internet e Programação Web)
